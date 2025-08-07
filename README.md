@@ -1,13 +1,13 @@
-# 📊 Insurance Premium Prediction
+# 📊 Predicting Insurance Premiums
 
-This project aims to predict **insurance premium amounts** based on customer attributes using **machine learning models** such as **XGBoost, LightGBM, CatBoost, and Ridge Regression**. The dataset contains various **demographic, financial, and behavioral features** influencing premium pricing.
+Based on customer attributes, **insurance premium amounts** can predicted using **machine learning models** such as **XGBoost, LightGBM, CatBoost, and Ridge Regression**. The dataset used in this project contains various **demographic, financial, and behavioral features** that influences the premium amount.
 
-[Blog post](https://medium.com/@tungvu_37498/building-a-machine-learning-model-to-estimate-insurance-premiums-1dac51f7ec63)
+
 
 ---
 
 ## 📌 **Project Overview**
-- **Objective**: Build a predictive model for insurance premium amounts.
+- **Aim/Objective**: To build a predictive model for determining insurance premium amounts.
 - **Tech Stack**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost, LightGBM, CatBoost.
 - **Approach**:
   - Exploratory Data Analysis (EDA)
@@ -18,7 +18,7 @@ This project aims to predict **insurance premium amounts** based on customer att
 ---
 
 ## 📂 **Dataset Description**
-The dataset [`train.csv`](https://www.kaggle.com/competitions/playground-series-s4e12/data) consists of **numerical** and **categorical** features influencing insurance premiums.
+The dataset [`train.csv`](https://www.kaggle.com/competitions/playground-series-s4e12/data) consists of **numerical** and **categorical** features that influence insurance premium amounts.
 
 
 ### **Numerical Features**
@@ -94,7 +94,7 @@ The **top 7 most important features** in **predicting premium amounts**:
 
 ---
 
-## 🚀 Future Work
+## 🚀 For Future
 - Hyperparameter Tuning for better performance
 - Explainability using SHAP values for better insights.
 - Deploying the Model via Streamlit.
