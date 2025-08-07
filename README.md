@@ -98,6 +98,3 @@ The **top 7 most important features** in **predicting premium amounts**:
 - Hyperparameter Tuning for better performance
 - Explainability using SHAP values for better insights.
 - Deploying the Model via Streamlit.
-
-## 📬 Contact
-For further inquiries or collaboration, please contact me at [tungvu.telecom@gmail.com](mailto:tungvutelecom@gmail.com).
